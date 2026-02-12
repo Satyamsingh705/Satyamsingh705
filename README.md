@@ -79,12 +79,12 @@
 <p align="center">
   <img
     height="170"
-    src="https://raw.githubusercontent.com/Satyamsingh705/Satyamsingh705/output/stats.svg"
+    src="https://raw.githubusercontent.com/Satyamsingh705/Satyamsingh705/output/stats.svg?v=2"
     alt="stats"
   />
   <img
     height="170"
-    src="https://raw.githubusercontent.com/Satyamsingh705/Satyamsingh705/output/top-langs.svg"
+    src="https://raw.githubusercontent.com/Satyamsingh705/Satyamsingh705/output/top-langs.svg?v=2"
     alt="top langs"
   />
 </p>
@@ -114,7 +114,7 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Satyamsingh705&theme=radical&no-frame=true&no-bg=true&row=1&column=7"
+    src="https://github-profile-trophy-kannan.vercel.app/?username=Satyamsingh705&theme=radical&no-frame=true&no-bg=true&row=1&column=7"
     alt="trophies"
   />
 </p>
@@ -146,7 +146,7 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Satyamsingh705/Satyamsingh705/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/Satyamsingh705/Satyamsingh705/output/github-contribution-grid-snake.svg?v=2"
     alt="snake"
   />
 </p>
