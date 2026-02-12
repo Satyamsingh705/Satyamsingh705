@@ -79,12 +79,12 @@
 <p align="center">
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Satyamsingh705&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117"
+    src="https://raw.githubusercontent.com/Satyamsingh705/Satyamsingh705/output/stats.svg"
     alt="stats"
   />
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamsingh705&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"
+    src="https://raw.githubusercontent.com/Satyamsingh705/Satyamsingh705/output/top-langs.svg"
     alt="top langs"
   />
 </p>

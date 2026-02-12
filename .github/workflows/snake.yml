@@ -19,6 +19,25 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=radical&hide_border=true&rank_icon=github&bg_color=0D1117
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate snake SVG
         uses: platane/snk@v3
         with:
